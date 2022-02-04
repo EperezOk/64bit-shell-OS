@@ -1,3 +1,9 @@
+# Introduction
+
+Simple kernel which includes Memory Management (Free List and Buddy System), process management, scheduling, IPC and sinchronization mechanisms.
+
+It includes some functions and processes to test all the functionalities developed.
+
 # Manual de Usuario
 Este es un sistema operativo básico basado en Barebonesx64 por RowDaBoat. Para poder correr el sistema se debe tener instalado qemu-system.
 Para compilar los archivos, se recomienda tener docker instalado con el contenedor `agodio/itba-so:1.0` dado por la cátedra.
